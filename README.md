@@ -1,6 +1,6 @@
 # python.version.1.0.guide
 Examples and Exercises
 
-n°|Descripción|link
+n°|Description|FileName
 -|-|-
-1|For loop string|-|
+1|For loop string|[forLoopString.py](forLoopString.py)|
