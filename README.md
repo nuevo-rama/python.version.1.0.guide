@@ -4,4 +4,5 @@ Examples and Exercises
 n°|Description|FileName
 -|-|-
 1|For loop string|[forLoopString.py](forLoopString.py)|
-1|For loop string in a function|[forLoopStringFunction.py](forLoopStringFunction.py)|
+2|For loop string in a function|[forLoopStringFunction.py](forLoopStringFunction.py)|
+3|For Range|[forRange.py](forRange.py)|
