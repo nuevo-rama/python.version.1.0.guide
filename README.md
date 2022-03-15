@@ -8,4 +8,5 @@ n°|Description|FileName
 3|For loop in list|[forInList.py](forInList.py)|
 4|While loop|[whileLoop.py](whileLoop.py)|
 5|For loop in list to append elements|[appendElementsList.py](appendElementsList.py)|
-6|OOP|[oop.py](oop.py)|
+6|Add key : value|[addKeyValue.py](addKeyValue.py)|
+7|OOP|[oop.py](oop.py)|
